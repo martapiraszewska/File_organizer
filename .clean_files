@@ -1,0 +1,5 @@
+[settings]
+suggested_mode = 644
+bad_chars = :;"*?$#`|\
+substitute_char = _
+temp_extensions = .tmp, .bak, ~
