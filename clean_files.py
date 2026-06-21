@@ -7,7 +7,7 @@ import configparser
 
 
 def load_config():
-    config_path = os.path.expanduser("~/.config")
+    config_path = os.path.expanduser("~/.clean_files")
     config = configparser.ConfigParser()
     if not os.path.exists(config_path):
         print("nieee")
